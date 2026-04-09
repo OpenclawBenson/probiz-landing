@@ -1,0 +1,9 @@
+{
+  "name": "probiz-landing",
+  "version": "1.0.0",
+  "description": "ProBiz.Cards landing page",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
